@@ -1,0 +1,18 @@
+Case:
+The objective of this project is to predict students' final exam scores based on the number of hours they studied. The prediction will be made using historical data that records the number of study hours and corresponding exam scores from previous students.
+
+------------------------------
+| Hours Studied | Final Score|
+| ------------- | ---------- |
+| 1             | 50         |
+| 2             | 55         |
+| 3             | 60         |
+| 4             | 65         |
+| 5             | 70         |
+------------------------------
+
+Steps:
+1. Understanding The Dataset
+2. Use The Linear Regression Formula (y = mx + b)
+3. Creating a Model Using Python
+4. Interpretation
